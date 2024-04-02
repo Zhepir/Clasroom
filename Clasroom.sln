@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clasroom.Core.Entities", "Clasroom.Core.Entities.csproj", "{5C68C461-AA5A-415A-8716-1B0F886DAF14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clasroom.Core.Entities.Test", "..\Clasroom.Core.Entities.Test\Clasroom.Core.Entities.Test.csproj", "{55AFC38C-F6B7-4DAF-BE18-EEBDF29F5144}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C68C461-AA5A-415A-8716-1B0F886DAF14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C68C461-AA5A-415A-8716-1B0F886DAF14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C68C461-AA5A-415A-8716-1B0F886DAF14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C68C461-AA5A-415A-8716-1B0F886DAF14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55AFC38C-F6B7-4DAF-BE18-EEBDF29F5144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55AFC38C-F6B7-4DAF-BE18-EEBDF29F5144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55AFC38C-F6B7-4DAF-BE18-EEBDF29F5144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55AFC38C-F6B7-4DAF-BE18-EEBDF29F5144}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {192956A7-877C-4747-9CD8-ABA9FECA7600}
+	EndGlobalSection
+EndGlobal
